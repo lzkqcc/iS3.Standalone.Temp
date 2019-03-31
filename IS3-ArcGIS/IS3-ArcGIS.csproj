@@ -65,6 +65,7 @@
     <ProjectReference Include="..\IS3-Core\IS3-Core.csproj">
       <Project>{4b8b162c-3658-4fcc-ab41-c0c85a7db281}</Project>
       <Name>IS3-Core</Name>
+      <Private>False</Private>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

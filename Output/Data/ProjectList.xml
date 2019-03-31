@@ -9,6 +9,6 @@
                        Description="IS3"
                        Default ="false">
     </p:ProjectLocation>
-	<!-- copy the project definition into here-->
+	<!--copy project definition here-->
   </p:ProjectList.Locations>
 </p:ProjectList>
