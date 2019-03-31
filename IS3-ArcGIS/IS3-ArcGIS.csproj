@@ -35,7 +35,7 @@
   <ItemGroup>
     <Reference Include="Esri.ArcGISRuntime, Version=10.2.5.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\Output\libs\arcgis\Esri.ArcGISRuntime.dll</HintPath>
+      <HintPath>..\Output\libs\Esri.ArcGISRuntime.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="PresentationCore" />
